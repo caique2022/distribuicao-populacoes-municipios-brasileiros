@@ -1,6 +1,6 @@
 # Projeto de análise de dados referente à distribuição das populações dos municípios brasileiros
 
-**Objetivo:** é avaliar se a distribuição de Pareto se adequa a cauda dos dados, e como ela se compara com outras distribuições (log-normal e lei de potência com truncamento exponencial).
+**Objetivo:** avaliar se a distribuição de Pareto se adequa a cauda dos dados, e como ela se compara com outras distribuições (log-normal e lei de potência com truncamento exponencial).
 
 **Ferramentas:** arquivo Jupyter Notebook com linguagem Python e biblioteca "power law" (https://github.com/jeffalstott/powerlaw).
 
