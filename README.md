@@ -1,4 +1,6 @@
-# Projeto de análise de dados referente à distribuição das populações dos municípios brasileiros
+# Modelagem da Distribuição Populacional dos Municípios Brasileiros: uma Comparação entre Pareto e Modelos Alternativos
+
+Projeto de análise de dados referente à distribuição das populações dos municípios brasileiros.
 
 **Objetivo:** avaliar se a distribuição de Pareto se adequa a cauda dos dados, e como ela se compara com outras distribuições (log-normal e lei de potência com truncamento exponencial).
 
